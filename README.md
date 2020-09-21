@@ -9,5 +9,10 @@
     3. `main` function which will act as the entry point to our simple rest server   
         나머지 서버의 진입 역할을 하는 메인 함수
 
-papago..
-https://tutorialedge.net/golang/creating-restful-api-with-golang/
+
+### 실행 
+`go run main.go`   
+
+papago..   
+
+참고 사이트 : https://tutorialedge.net/golang/creating-restful-api-with-golang/
